@@ -1,4 +1,4 @@
 # Projects
 My Portfolio
 
-![alt text](http://piyushpencil.github.io/Projects/pimg/123456.JPEG)
+![alt text](https://github.com/piyushpencil/projects/blob/[branch]/123456.jpg?raw=true)
